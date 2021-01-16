@@ -1,3 +1,13 @@
-theme: minima
-name: my blog
+title: My awsome title
+autho:
+  name: msup
+  email: vastly10@gmail.com
 description: Coding, Testing
+
+name: my blog
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
